@@ -14,6 +14,6 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/176077292-a814429f-944b-4ded-abe5-4ba6ba982e1a.png" height="100%" width="100%" alt="Sign-In logs"/>
+<img src="https://user-images.githubusercontent.com/104326475/176077292-a814429f-944b-4ded-abe5-4ba6ba982e1a.png" height="60%" width="60%" alt="Sign-In logs"/>
   
 <p/>
