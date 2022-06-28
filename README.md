@@ -21,7 +21,7 @@
 # Downloaded VirtualBox and created a Virtual Machine called KevinVM
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/176078877-7ef4b5d2-c235-4296-84e6-d6cb4b6b4974.png" height="60%" width="60%" alt="VM"/>
+<img src="https://user-images.githubusercontent.com/104326475/176078877-7ef4b5d2-c235-4296-84e6-d6cb4b6b4974.png" height="160%" width="160%" alt="VM"/>
   
 <p/>
 
